@@ -1,5 +1,5 @@
 <p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/Linkedin-Java-Data-Structures"><img src="https://raw.githubusercontent.com/yurijserrano/Pokedex/4abb8d82e0c59ada3813fb399c1689603e9652d0/Logo/javascript.svg" width="400" height="400" alt="Javascript" /></a>
+	<a target="_blank" href="https://github.com/yurijserrano/Linkedin-Java-Data-Structures"><img src="https://raw.githubusercontent.com/yurijserrano/Linkedin-Java-Data-Structures/9038038162f80ff319a34de8e511a143ca3ebe15/java.svg" width="400" height="400" alt="Java" /></a>
 </p>
 
 > This repository contains the exercises that were done during LinkedIn's Java: Data Structures course :sunglasses:
