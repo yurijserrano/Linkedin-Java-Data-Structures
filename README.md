@@ -10,8 +10,8 @@
 
 <p align="center">
   <a target="_blank" href="#-about"><img src="https://img.shields.io/badge/ABOUT-green?style=for-the-badge&color=#0095B7" /></a>&nbsp;
-  <a target="_blank" href="#-gif"><img src="https://img.shields.io/badge/PICS-green?style=for-the-badge&color=2196F3" /></a>&nbsp;
-  <a target="\_blank"href="#-pics"><img src="https://img.shields.io/badge/PACKAGES-orange?style=for-the-badge&color=00796B" /></a>&nbsp;
+  <a target="_blank" href="#-gif"><img src="https://img.shields.io/badge/GIF-green?style=for-the-badge&color=2196F3" /></a>&nbsp;
+  <a target="\_blank"href="#-pics"><img src="https://img.shields.io/badge/PICS-orange?style=for-the-badge&color=00796B" /></a>&nbsp;
   <a target="_blank" href="#-certificate"><img src="https://img.shields.io/badge/CERTIFICATE-orange?style=for-the-badge&color=4CAF50" /></a>&nbsp;
   <a target="_blank" href="#-license"><img src="https://img.shields.io/badge/LICENSE-orange?style=for-the-badge&color=e53935" /></a>&nbsp;
 </p>
